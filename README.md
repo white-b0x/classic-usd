@@ -1,13 +1,11 @@
 # classic-usd
 A stablecoin for the Ethereum Classic network.
 
-
-## properties
-
+## address
 * address ethereum classic : TBD
 * address mordor testnet: TBD
 
-
+## properties
 * name: Classic USD
 * ticker: USC
 * decimals: 6
@@ -18,10 +16,10 @@ A stablecoin for the Ethereum Classic network.
 
 ## visual assets
 
-200x200
-![gif](./assets/usc-logo-200x200.gif)
-![png](./assets/usc-logo-200x200.png)
+### 200x200
+* ![gif](./assets/usc-logo-200x200.gif "gif")
+* ![png](./assets/usc-logo-200x200.png "png")
 
-2000x2000
-![gif](./assets/usc-source-2000x2000.gif)
-![png](./assets/usc-source-2000x2000.png)
+### 2000x2000
+* ![gif](./assets/usc-source-2000x2000.gif "gif")
+* ![png](./assets/usc-source-2000x2000.png "png")
